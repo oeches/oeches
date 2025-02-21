@@ -1,4 +1,4 @@
-- 👋 Currently study engineer, PhD on Signal and Image Processing
+- 👋 Currently support engineer on spatial domain, PhD on Signal and Image Processing
 - 👀 Interested in Image processing, Computer Vision and Machine Learning and AI problems
 - 🌱 I’m currently learning (not much for the moment)
 - 💞️ I’m looking to collaborate on (nothing for the moment)
